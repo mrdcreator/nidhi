@@ -43,10 +43,7 @@ body {
     width: 90%;
     margin: 10px auto;
   }
-  .detail i
-  {
-    padding-left: 35px;
-  }
+ 
 }
 .container img
 {
@@ -66,7 +63,7 @@ body {
   padding: 8px 30px;
 width: 100%;
 font-size: 20px;
-padding-left: 37px;
+padding-left: 34px;
 transition: 0.3s;
 }
 .detail i:hover
